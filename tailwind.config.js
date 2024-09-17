@@ -21,6 +21,7 @@ export default {
         },
         stroke: {
           1: "#26242C",
+          2: "#0E0C15"
         },
         n: {
           1: "#FFFFFF",
